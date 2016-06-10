@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="mongogame.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Component.cs">
+    <Files>
+      <File FileName="Visitor.cs" Line="123" Column="2" />
+      <File FileName="Factory.cs" Line="57" Column="3" />
+      <File FileName="Game1.cs" Line="60" Column="4" />
+      <File FileName="Program.cs" Line="30" Column="1" />
+      <File FileName="Component.cs" Line="82" Column="21" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mongogame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

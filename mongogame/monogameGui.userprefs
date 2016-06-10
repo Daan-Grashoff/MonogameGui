@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="MonogameGui.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game1.cs">
+    <Files>
+      <File FileName="Game1.cs" Line="11" Column="2" />
+      <File FileName="Component.cs" Line="102" Column="1" />
+      <File FileName="Visitor.cs" Line="7" Column="1" />
+      <File FileName="Factory.cs" Line="4" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MonogameGui PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
